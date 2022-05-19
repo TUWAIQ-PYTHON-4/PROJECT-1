@@ -9,7 +9,6 @@
 - Use loops.
 - Use functions that return an output . 
 - Use a Lambda function.
-- Use Structs.
 - Use at least 1 Class.
 - Use some form of Error Handling .
 - Organize Your Code into modules & (or packages)
