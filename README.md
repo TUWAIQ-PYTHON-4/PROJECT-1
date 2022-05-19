@@ -8,7 +8,7 @@
 - Use lists or dictionaries or tuples. 
 - Use loops.
 - Use functions that return an output . 
-- Use Lambda functions.
+- Use a Lambda function.
 - Use Structs.
 - Use at least 1 Class.
 - Use some form of Error Handling .
