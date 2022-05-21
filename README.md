@@ -1,45 +1,23 @@
 # PROJECT-1
 
-
-
-## Based on what you’ve learned until now , create a project of your choosing (impress us with your imagination) . This project must at least satisfy the following minimum requirements :
-
-- Must be interactive on CLI.
-- Use lists or dictionaries or tuples. 
-- Use loops.
-- Use functions that return an output . 
-- Use a Lambda function.
-- Use at least 1 Class.
-- Use some form of Error Handling .
-- Organize Your Code into modules & (or packages)
-
-## Example Project :  An online Grocery Store :
-
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
+#### Overview : An online store that sells and display book to customers.The customer  should be able to do the following tasks for the store to function properly . 
 
 #### As a customer I should be able to do the following :
-- Browse  Products . 
-- View the product info (summary, specs, price, quantity , etc.)
-- Search for Products.
-- Get recommendations for my next purchase based on my purchase history.
-- Add Products to the shopping cart .
-- Remove a product from the shopping cart.
-- List the products in my shopping cart. 
-- Continue to checkout . 
-- Fill in my address for delivery.
-- Get receipt of my purchases.
-- Check delivery status . 
-
+- Browse  books . 
+- add books in store 
+- View the book info (name,  price, year , author.)
+- Search for books.
+- Search for  books price.
+- check to the price of the book after discount
 
 
 #### Usage :
- Explain to the user how to use your project . 
- for example:
- - type in search product_name to search for a product.
- - type in list_products to show all the products in the grocery.
- - type in show product_name to get information about this product.
- - type in buy product_name to buy the product . 
- - and so on...
+- if customer enter 1 will add book in store.
+- if customer enter 2 will display all the books in store.
+- if customer enter 3 will display info the book the customer search.
+- if customer enter 4 will display price the book the customer search.
+- if customer enter 5 will calclate the price after discount.
+- if customer enter 6 will exite from program.
 
 
-### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 
+
