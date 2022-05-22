@@ -13,7 +13,7 @@
 - Use some form of Error Handling .
 - Organize Your Code into modules & (or packages)
 
-##  Project:Twaiqe Online Courses:
+##  Project:Twaiqe Courses Program:
 
 #### Overview : An online courses platform, about programming languages courses, has one main user(student), the student should answer questions before he/she diving into the program, after that if he/she eligible for the program, the program displays a message of acceptance. 
 
