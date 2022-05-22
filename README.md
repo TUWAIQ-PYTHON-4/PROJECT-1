@@ -13,33 +13,33 @@
 - Use some form of Error Handling .
 - Organize Your Code into modules & (or packages)
 
-## Example Project :  An online Grocery Store :
+## My Project :  "I am feeling" Music Player :
 
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
+#### Overview : A Music Player designed based on user current mood, which will examine the user feelings/personality and play a randomly picked song based on his/her current mood after answering a total of 20 questions.
 
-#### As a customer I should be able to do the following :
-- Browse  Products . 
-- View the product info (summary, specs, price, quantity , etc.)
-- Search for Products.
-- Get recommendations for my next purchase based on my purchase history.
-- Add Products to the shopping cart .
-- Remove a product from the shopping cart.
-- List the products in my shopping cart. 
-- Continue to checkout . 
-- Fill in my address for delivery.
-- Get receipt of my purchases.
-- Check delivery status . 
+#### As a listener I should be able to do the following :
+- Enter my name and user number.
+- View a colorful WELCOME screen.
+- View information about the avaiable mood/songs types.
+- Start answering the 20 questions, with the ability to answer again for invalid answers.
+- Be informed when the song starts playing (Green color).
+- Listen to the played music directly from the Terminal.
+- View the singer/artist name and song name.
+- View the type of the song (mood).
+- Be informed when the song stops playing (Red color).
+- Be able to exit the program after listening
 
 
 
 #### Usage :
- Explain to the user how to use your project . 
- for example:
- - type in search product_name to search for a product.
- - type in list_products to show all the products in the grocery.
- - type in show product_name to get information about this product.
- - type in buy product_name to buy the product . 
- - and so on...
-
-
-### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 
+ How to use this project: 
+ - The user must open the terminal and install the following to play the sounds on (Mac OS):
+ - pip3 install playsound
+ - pip3 install PyObjC
+ - Start running the program on VS Code terminal.
+ - type in your name.
+ - type in your user number.
+ - type in E to exit the program when asked.
+ - type in 'n' or 'N' for answering NO.
+ - type in 'y' or 'Y' for answering YES.
+ - Listen to the entire song until it stops.
