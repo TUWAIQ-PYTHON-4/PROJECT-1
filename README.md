@@ -1,45 +1,27 @@
 # PROJECT-1
 
+## Project :  An online second hand bookstore
 
-
-## Based on what you’ve learned until now , create a project of your choosing (impress us with your imagination) . This project must at least satisfy the following minimum requirements :
-
-- Must be interactive on CLI.
-- Use lists or dictionaries or tuples. 
-- Use loops.
-- Use functions that return an output . 
-- Use a Lambda function.
-- Use at least 1 Class.
-- Use some form of Error Handling .
-- Organize Your Code into modules & (or packages)
-
-## Example Project :  An online Grocery Store :
-
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
+### Overview : An online store that sells used books with great deals.
 
 #### As a customer I should be able to do the following :
-- Browse  Products . 
-- View the product info (summary, specs, price, quantity , etc.)
-- Search for Products.
-- Get recommendations for my next purchase based on my purchase history.
-- Add Products to the shopping cart .
-- Remove a product from the shopping cart.
-- List the products in my shopping cart. 
-- Continue to checkout . 
-- Fill in my address for delivery.
-- Get receipt of my purchases.
-- Check delivery status . 
-
-
+- Browse Used Books.
+- View the Books info (name, genre, price, rating, summuray, condition)
+- Add Books to the shopping cart.
+- show the Books in shopping cart. 
+- Continue to checkout. 
 
 #### Usage :
- Explain to the user how to use your project . 
- for example:
- - type in search product_name to search for a product.
- - type in list_products to show all the products in the grocery.
- - type in show product_name to get information about this product.
- - type in buy product_name to buy the product . 
- - and so on...
+The user will be given the following options and they should be choosing by the number:
+   1- View second hand Books
+   2- View the bestseller Second hand Books
+   3- View cart
+   4- Checkout
 
-
-### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 
+ - type in 1 to show all the books in the store.
+ - type in 2 to show bestselling books.
+ - type in 3 to show and edit added books.
+ - type in 4 to show books total and buy it. 
+ 
+ 
+ 
