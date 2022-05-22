@@ -13,33 +13,33 @@
 - Use some form of Error Handling .
 - Organize Your Code into modules & (or packages)
 
-## Example Project :  An online Grocery Store :
+##  Project:Twaiqe Online Courses:
 
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
+#### Overview : An online courses platform, about programming languages courses, has one main user(student), the student should answer questions before he/she diving into the program, after that if he/she eligible for the program, the program displays a message of acceptance. 
 
-#### As a customer I should be able to do the following :
-- Browse  Products . 
-- View the product info (summary, specs, price, quantity , etc.)
-- Search for Products.
-- Get recommendations for my next purchase based on my purchase history.
-- Add Products to the shopping cart .
-- Remove a product from the shopping cart.
-- List the products in my shopping cart. 
-- Continue to checkout . 
-- Fill in my address for delivery.
-- Get receipt of my purchases.
-- Check delivery status . 
+#### As a student I should answer the questions below:  
+ - Join the program. 
+ - The terms of the program (Agree or disagree) 
+ - Make sure of some terms from user. 
+ - Eligible or not for the program 
+ - Browse the courses available to the qualifier user 
+ - The user chooses the course 
+ - Fill out the form 
+ - The user checks his information. 
 
 
 
 #### Usage :
- Explain to the user how to use your project . 
- for example:
- - type in search product_name to search for a product.
- - type in list_products to show all the products in the grocery.
- - type in show product_name to get information about this product.
- - type in buy product_name to buy the product . 
- - and so on...
+- Type yes or no in ‘user_input_to_get_started’  start and join the Tuwaiq courses. 
+- Type agree or disagree in ‘user_input_to_get_agree’ To agree to the terms of the program .
+- If the user accepts: 
+     - Some information will be checked from the user .
+     - After that, the user is classified as to whether he is eligible to join or not 
+
+- Type yes or no in  ‘course_show’  If the qualified user wants to view the available courses .
+      - If the answer is yes, the courses and their data will appear, and in the case         of the answer, a message is not printed, and the program is exited .
+
+- After viewing the courses, he chooses which course he wants 
+- Then, the eligible user must fill out the form to register for his chosen course and verify their information. 
 
 
-### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 
