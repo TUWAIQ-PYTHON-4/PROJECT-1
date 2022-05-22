@@ -1,45 +1,12 @@
-# PROJECT-1
+The project is about 3 different games appear in the Home page as a list and the user will choose one of them. The games are: 
+1. Calculation
+2. Making a word
+3. Guessing the number
 
+The first game, Calculation, consists of 3 levels. At the beginning, a list will appear to the user to choose which difficulty level he wants to play. The difficulty depends on the numbers in the arithmetic operations. The Hard level is in the range (10, 20), the Medium level is in the range (5, 15) and the Easy level is in the range (0, 10). The user has to solve 10 operations within 60 seconds or the program will stop the game and appear a message that tell the user that the game is over.
 
+The second game, Making a word, is about a list “words” contains many words and a list of letters “letters” that the user can use them to make words. First, a list will appear to the user to choose which difficulty level he wants to play. The difficulty depends on the number of words he has to make. In the Hard level, the user has to make 20 words that are exist in the list “words”. In the Medium level, the user has to make 15 words that are exist in the list “words” and in the Easy level, the user has to make 10 words that are exist in the list “words”. After choosing the level, the list “letters” will appear to the user and he has to make the number of words depends on the difficulty level or the program will stop the game and appear a message that tell the user that the game is over.
 
-## Based on what you’ve learned until now , create a project of your choosing (impress us with your imagination) . This project must at least satisfy the following minimum requirements :
+The third game, Guessing the number, the program choose a random number between 1 to 20 and asks the user to guess what is that number. At the beginning, a list will appear to the user to choose which difficulty level he wants to play. The difficulty depends on the number of chances that the user has to guess the number. In the Hard level, he has 6 chances to guess. In the Medium level, he has 8 chances to guess and in the Easy level, he has 10 chances to guess. While the user try to guess the number, the program hints him by messages if he guess incorrect number “sorry, the guessing number is less than the number” or “sorry, the guessing number is greater than the number”.
 
-- Must be interactive on CLI.
-- Use lists or dictionaries or tuples. 
-- Use loops.
-- Use functions that return an output . 
-- Use a Lambda function.
-- Use at least 1 Class.
-- Use some form of Error Handling .
-- Organize Your Code into modules & (or packages)
-
-## Example Project :  An online Grocery Store :
-
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
-
-#### As a customer I should be able to do the following :
-- Browse  Products . 
-- View the product info (summary, specs, price, quantity , etc.)
-- Search for Products.
-- Get recommendations for my next purchase based on my purchase history.
-- Add Products to the shopping cart .
-- Remove a product from the shopping cart.
-- List the products in my shopping cart. 
-- Continue to checkout . 
-- Fill in my address for delivery.
-- Get receipt of my purchases.
-- Check delivery status . 
-
-
-
-#### Usage :
- Explain to the user how to use your project . 
- for example:
- - type in search product_name to search for a product.
- - type in list_products to show all the products in the grocery.
- - type in show product_name to get information about this product.
- - type in buy product_name to buy the product . 
- - and so on...
-
-
-### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 
+At the end of each game, a list appears, so the user can choose to Play again, Return to the Home page or Close the program.
