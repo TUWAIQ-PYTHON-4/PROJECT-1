@@ -13,33 +13,26 @@
 - Use some form of Error Handling .
 - Organize Your Code into modules & (or packages)
 
-## Example Project :  An online Grocery Store :
+## Example Project :  An online Coffe shop :
 
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
+#### Overview : An online  Coffe shop that sells sweets. This online store has 1 main users the (customer). whom should be able to do the following. 
 
 #### As a customer I should be able to do the following :
-- Browse  Products . 
-- View the product info (summary, specs, price, quantity , etc.)
-- Search for Products.
-- Get recommendations for my next purchase based on my purchase history.
+- view the foof menue that contain the prices. 
 - Add Products to the shopping cart .
 - Remove a product from the shopping cart.
-- List the products in my shopping cart. 
+- List the products in my shopping cart if not empty. 
 - Continue to checkout . 
-- Fill in my address for delivery.
+- view the total cost of my order.
 - Get receipt of my purchases.
-- Check delivery status . 
+ 
 
 
 
 #### Usage :
- Explain to the user how to use your project . 
- for example:
- - type in search product_name to search for a product.
- - type in list_products to show all the products in the grocery.
- - type in show product_name to get information about this product.
- - type in buy product_name to buy the product . 
- - and so on...
+ - type in number 1 to view the shopping cart.
+ - type in 4 to show all the products in the coffe shop.
+ - type in 3 to delete an item by it name from the shopping cart.
+ - type in 2 to add an item by its number, and its quantity into ths shopping cart.
+ - type 0 to check out and display the total.
 
-
-### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 

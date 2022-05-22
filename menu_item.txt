@@ -1,0 +1,6 @@
+1) Coupcake .... 18.50SR
+2) TeaCake .... 15.00SR
+3) Dounts .... 5.00SR
+4) Coffe .... 9.00SR
+5) MilkShake .... 4.00SR
+6) Water .... 1.00SR
