@@ -46,8 +46,8 @@ while check :
                   file.write("python ")
                   file.close()
                   after_tax= lambda x,y:x+y
-                  result =(55+15)
-                  print("the price after tax ",result )
+                  after_tax(66+15)
+                  print("the price after tax ",after_tax )
                 else:#if product dom't have
                     print("the product don't hava")
 
@@ -60,8 +60,8 @@ while check :
                   file.write("java ")
                   file.close()
                   after_tax= lambda x,y:x+y
-                  result =(66+15)
-                  print("the price after tax ",result )
+                  after_tax(66+15)
+                  print("the price after tax ",after_tax )
             if user_get_product == "javascript" :
                 
                 pries_of_book =input("pries of java 77 add to shooping cart ")  
@@ -71,8 +71,8 @@ while check :
                   file.write("javascript ")
                   file.close()
                   after_tax= lambda x,y:x+y
-                  result =(77+15)
-                  print("the price after tax ",result )
+                  after_tax(66+15)
+                  print("the price after tax ",after_tax )
             if user_get_product == "php" :
                 
                 pries_of_book =input("pries of java 88 add to shooping cart ")  
@@ -82,8 +82,8 @@ while check :
                   file.write(" php ")
                   file.close()
                   after_tax= lambda x,y:x+y
-                  result =(88+15)
-                  print("the price after tax ",result )
+                  after_tax(66+15)
+                  print("the price after tax ",after_tax )
             if user_get_product == ".net" :
                 
                 pries_of_book =input(f"pries of .net 99 add to shooping cart ")  
@@ -93,8 +93,8 @@ while check :
                   file.write(" .net ")
                   file.close()
                   after_tax= lambda x,y:x+y
-                  result =(99+15)
-                  print("the price after tax ",result )
+                  after_tax(66+15)
+                  print("the price after tax ",after_tax )
                 
              
              
