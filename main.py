@@ -1,10 +1,11 @@
 
-from class1 import WrongPhrase
+from class1 import WrongWord
 
 def Items(name):
-    return name.upper() in ["burger" , "fries" , "drink"]
+  return name.upper() in ["BURGER" , "FRIES" , "DRINK"]
 
 Item = ["Burger" , "Fries" , "Drink"]
+
 price = [10,5,3]
 
 myOrder=[]
@@ -46,7 +47,7 @@ while nextOrder ==True:
 
    else:
         if myOrder != Item:
-         raise WrongPhrase("please fill in a valid Item")
+         raise WrongWord("please fill in a valid Item")
 
    finished = input("are you finished ordering y/n :")
    
