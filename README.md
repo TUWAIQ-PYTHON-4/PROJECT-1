@@ -16,14 +16,17 @@
 ## Project :  An online OZ Water Store :
 Overview : An online store that sells Water to customers.
 
-As a customer I should be able to do the following :
-
-  -Browse Products.
-  -View the product info (item number, name, price).
-  -Add Products to the shopping cart.
-  -List the products in my shopping cart.
-  -Continue to checkout.
-  -Contact us
+    Browse Products.
+    
+    View the product info (item number, name, price).
+    
+    Add Products to the shopping cart.
+    
+    List the products in my shopping cart.
+    
+    Continue to checkout.
+    
+    Contact us.
     
 
 
