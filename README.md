@@ -29,8 +29,12 @@ As a customer I should be able to do the following :
 
 #### Usage :
 Enter [1] for show prodcuts
+
 Enter [2] for to show shopping cart
+
 Enter [3] for checkout
+
 Enter [4] for contact us
+
 Enter [5] to exit from program
 
