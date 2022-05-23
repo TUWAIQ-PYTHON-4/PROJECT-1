@@ -13,7 +13,7 @@
 - Use some form of Error Handling .
 - Organize Your Code into modules & (or packages)
 
-## Example Project :  An online Coffe shop :
+## An online Coffe shop
 
 #### Overview : An online  Coffe shop that sells sweets. This online store has 1 main users the (customer). whom should be able to do the following. 
 
